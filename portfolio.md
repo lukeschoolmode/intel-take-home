@@ -30,13 +30,33 @@ footer: '![width:4em](./images/intel-logo.svg)'
 paginate: false
 
 ---
-## Chicken
-
-I like chicken nuggets
-I like chicken tenders
+## Formulaby
+browse physics formulas
+- frequent formulas into database
+- render
+- algorithm
 
 ---
-## Taco
+## Lukearchive
+Personal Archive
+- First Django
+- googling(a lot) AWS, Server
 
-I like tacos
-I eat tacos typically on Taco Tuesday
+---
+## Bruin Calender
+Event Calendar App
+- Hey guys! imple/consult
+- Disagree, Vote for Everything opposite
+- Learn to respect
+
+---
+## Catmom
+Employee Time Management Application
+- Want to have an interview? App and deploy, give me code!
+- Bye Bye
+- Heroku? in a week?
+
+---
+## Epoch2greg
+General Purpose Timezone Conversion Utility
+- standard and life of engineer
