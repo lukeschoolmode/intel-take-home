@@ -43,6 +43,7 @@ browse physics formulas
 ```bash
 $ formulaby good_conductor
 ```
+![bg](./images/bg_formulaby1.png)
 
 ---
 ## Lukearchive
@@ -59,7 +60,6 @@ Event Calendar App
 - Disagree, Vote for Everything opposite
 - Learn to respect
 - [Demo](https://drive.google.com/file/d/1Tk87AdSXnsgLTDFfFaYskOtzxnDOPWrj/view?usp=sharing)
-
 
 ---
 ## Catmom
