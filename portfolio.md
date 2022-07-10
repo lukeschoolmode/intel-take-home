@@ -18,6 +18,9 @@ style: |
   }
   footer {
     position: absolute;
+    /* position: static; */
+    /* z-index: 200 !important; */
+
     bottom: 0;
     margin: -4em;
     text-align: right;
@@ -29,18 +32,25 @@ style: |
 footer: '![width:4em](./images/intel-logo.svg)'
 paginate: false
 
+
 ---
 ## Formulaby
+
 browse physics formulas
 - frequent formulas into database
-- render
-- algorithm
+- later: algorithm, render
+- how to combine
+```bash
+$ formulaby good_conductor
+```
 
 ---
 ## Lukearchive
+
 Personal Archive
 - First Django
 - googling(a lot) AWS, Server
+- [desktop](https://drive.google.com/file/d/1OldXELOV2WntBaCSYtdVnpFteZBpku4Y/view?usp=sharing), [mobile](https://drive.google.com/file/d/1AXAFVg161sXuFlsJSUs4uuo9jzBjZReC/view?usp=sharing)
 
 ---
 ## Bruin Calender
@@ -48,15 +58,17 @@ Event Calendar App
 - Hey guys! imple/consult
 - Disagree, Vote for Everything opposite
 - Learn to respect
+- [Demo](https://drive.google.com/file/d/1Tk87AdSXnsgLTDFfFaYskOtzxnDOPWrj/view?usp=sharing)
+
 
 ---
 ## Catmom
-Employee Time Management Application
-- Want to have an interview? App and deploy, give me code!
-- Bye Bye
-- Heroku? in a week?
+Employee Time Management App
+- Interview? deploy/give me code, Bye!
+- Heroku in a week
 
 ---
 ## Epoch2greg
-General Purpose Timezone Conversion Utility
-- standard and life of engineer
+Timezone Conversion Utility
+- standard and life of engineers
+![bg](./images/bg_catmom.png)
