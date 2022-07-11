@@ -33,50 +33,46 @@ footer: '![width:4em](./images/intel-logo.svg)'
 paginate: false
 
 ---
-## Luke Yoo
-An engineering student in LA, looking for a job.
-
+## 유우석 Luke Yoo
+LA 공학도
+구직중 
 
 ---
-## Formulaby
-
-browse physics formulas
-- Frequent formulas into database
-- Later: algorithm, render
-- How to combine
+## 포물라비
+물리 공식 보여줘
+- 자주 보이는 공식 데이타베이스로
+- 나중에: 알고리즘, 렌더링
+- 어떻게 합치니
 ```bash
 $ formulaby good_conductor
 ```
 ![bg](./images/bg_formulaby1.png)
 
 ---
-## Lukearchive
+## 루칼카이브
 
-Personal Archive
-- First Django
-- Googling(a lot) AWS, Server
-- [Desktop](https://drive.google.com/file/d/1OldXELOV2WntBaCSYtdVnpFteZBpku4Y/view?usp=sharing), [Mobile](https://drive.google.com/file/d/1AXAFVg161sXuFlsJSUs4uuo9jzBjZReC/view?usp=sharing)
+개인 기록보관소
+- 장고 처음으로
+- 구글(많이) AWS, 서버
+- [desktop](https://drive.google.com/file/d/1OldXELOV2WntBaCSYtdVnpFteZBpku4Y/view?usp=sharing), [mobile](https://drive.google.com/file/d/1AXAFVg161sXuFlsJSUs4uuo9jzBjZReC/view?usp=sharing)
 
 ---
-## Bruin Calender
-Event Calendar App
-- Hey guys! imple/consult
-- Disagree, Vote for Everything opposite
-- Learn to respect
+## 브루인 달력
+달력 앱
+- 얘들아! 구현/상의
+- 불찬성, 투표 전부 나의 의견 반대
+- 존중
 - [Demo](https://drive.google.com/file/d/1Tk87AdSXnsgLTDFfFaYskOtzxnDOPWrj/view?usp=sharing)
 
 ---
-## Catmom
-Employee Time Management App
-- Interview? deploy/give me code, Bye!
-- Heroku in a week
-```bash
-$ herokal
-```
-![bg](./images/bg_catmom.png)
+## 캣맘
+직원 미팅 관리 앱
+- 인터뷰? 전개되면 코드 줘바, 안녕!
+- Heroku 일주일
 
 ---
 ## Epoch2greg
-Timezone Conversion Utility
-- Standards
-- Life of engineers
+타임존 바꿔
+- 표준
+- 공학자의 삶
+![bg](./images/bg_catmom.png)
