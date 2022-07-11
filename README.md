@@ -1,3 +1,4 @@
+![image](./images/intro.png)
 # Intel Take-home Assignment
 It is a small assignment to talk with the intel senior engineer. This achieves two things:
 - [Actual Assignment: A personal portfolio based on some of my project](#original-purpose)
@@ -20,7 +21,7 @@ These are how to generate file/presentation by:
 
 ## I am a terminal person
 **NOTE**
-- For terminal option, some visual componnents are gone
+- For terminal option, some **visual componnents are gone!**
 - Don't ask me. Ask [Marp](https://github.com/marp-team/marp-cli) guys
 
 Requirement: Google Chrome, Chromium, or Microsoft Edge
