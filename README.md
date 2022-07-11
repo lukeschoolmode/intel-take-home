@@ -43,6 +43,7 @@ options:
 [Are you done?](#i-have-vs-code)
 
 # I want to use it
+![image](./images/use-in-vscode.png)
 
 Assume you have VS Code ([You don't?](#go-get-vs-code))
 - `$ git clone https://github.com/lukeschoolmode/intel-take-home.git`
