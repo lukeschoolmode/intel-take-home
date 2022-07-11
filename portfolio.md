@@ -29,17 +29,33 @@ style: |
   footer > img {
     padding: 0.5em 0.5em 0em 0em;
   }
+
+   /* custom: numbered list will be bubbles of hinting words */
+  ol {
+    list-style-type: none;
+    position: absolute;
+    right: 0.5%;
+    bottom: 10%;
+  }
+  ol li {
+    float: left;
+    font-size: 0.3em;
+    margin: 0em 0.2em 0em 0.2em;
+    padding: 0em 0.5em 0em 0.5em;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    border-radius: 0.5em/0.5em;
+    color: rgba(255, 255, 255, 0.5);
+  }
 footer: '![width:4em](./images/intel-logo.svg)'
 paginate: false
 
 ---
 ## Luke Yoo
-An engineering student in LA, looking for a job.
-
+An engineering student in LA
+Looking for a job
 
 ---
 ## Formulaby
-
 browse physics formulas
 - Frequent formulas into database
 - Later: algorithm, render
@@ -49,13 +65,20 @@ $ formulaby good_conductor
 ```
 ![bg](./images/bg_formulaby1.png)
 
+1. Python
+2. Latex
+
 ---
 ## Lukearchive
-
 Personal Archive
 - First Django
 - Googling(a lot) AWS, Server
 - [Desktop](https://drive.google.com/file/d/1OldXELOV2WntBaCSYtdVnpFteZBpku4Y/view?usp=sharing), [Mobile](https://drive.google.com/file/d/1AXAFVg161sXuFlsJSUs4uuo9jzBjZReC/view?usp=sharing)
+
+1. HTML/CSS/JS
+2. Django
+2. Apache
+3. AWS EC2
 
 ---
 ## Bruin Calender
@@ -64,6 +87,9 @@ Event Calendar App
 - Disagree, Vote for Everything opposite
 - Learn to respect
 - [Demo](https://drive.google.com/file/d/1Tk87AdSXnsgLTDFfFaYskOtzxnDOPWrj/view?usp=sharing)
+
+1. React
+2. Google Firebase
 
 ---
 ## Catmom
@@ -75,8 +101,14 @@ $ herokal
 ```
 ![bg](./images/bg_catmom.png)
 
+1. Heroku
+2. Django
+3. Shell
+
 ---
 ## Epoch2greg
 Timezone Conversion Utility
 - Standards
 - Life of engineers
+
+1. C
